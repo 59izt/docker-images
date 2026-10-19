@@ -1,1 +1,1 @@
-FROM ghcr.io/headlamp-k8s/headlamp:0.46.0
+FROM ghcr.io/headlamp-k8s/headlamp:v0.46.0
